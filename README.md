@@ -3,7 +3,7 @@
 #### Technical Skills: R, Python, SQL, Tableau, Excel, Power Query, Power BI, Looker Studio, SPPS, Minitab
 
 ### Education
-- S.Stat., Statistics | Institut Teknologi Sepuluh Nopember (_August 2024_)
+- S.Stat., Statistics | Institut Teknologi Sepuluh Nopember (_2020 - 2024_)
 
 ### Work Experiences
 **Data Analyst @ Laznas LMI, Surabaya, East Java (_Feb 2024 - June 2024_)**
